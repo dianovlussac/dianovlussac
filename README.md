@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Dianov. <img src="https://github.com/dianovlussac" width="25"></h2>
+<h2> Hey there! I'm Dianov </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <n></n>
