@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming, system information and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Front-End Development and Mobile App Development .
+- 🌱 &nbsp; Enthusiast in Front-End Development, Game Development, 3D animation and Mobile App Development .
 - ✍️ &nbsp; Creating simple game, Make some game assets and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
