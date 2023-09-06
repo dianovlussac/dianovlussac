@@ -11,7 +11,7 @@
 - 💼 &nbsp; Mobile developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Front-End Development, Game Development, 3D animation and Mobile App Development .
 - ✍️ &nbsp; Creating simple game, Make some game assets and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
